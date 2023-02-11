@@ -1,0 +1,8 @@
+.hero {
+    &__img {
+        width: 100%;
+        object-fit: cover;
+        object-position: top;
+        aspect-ratio: 16/4;
+    }
+}
